@@ -1,2 +1,3 @@
-# Write your code below this line 👇
-print("Hello world!")
+name = "Angela"
+length = len(name)
+print(length)
