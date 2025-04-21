@@ -1,3 +1,1 @@
-name = "Angela"
-length = len(name)
-print(length)
+print(3 * (3 + 3) / 3 - 3)
